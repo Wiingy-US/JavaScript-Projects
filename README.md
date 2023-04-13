@@ -9,7 +9,7 @@ In this repository we are going to unfold 15 projects along with the link to the
 
 ## Difficulty Level: Beginner
 
-## Simple Calculator
+## [Simple Calculator](https://github.com/LucioFex/Simple-Web-Calculator)
 
 ![image](https://user-images.githubusercontent.com/120396905/231788761-cf3b697e-2882-4652-b619-fdbd02eb4b44.png)
 
@@ -29,7 +29,7 @@ Potential Applications | This project can be used as a calculator tool on any we
 </body>
 </html>
 
-## To-do List
+## [To-do List](https://github.com/expalmer/todo-list-vanilla-js)
 
 ![image](https://user-images.githubusercontent.com/120396905/231789316-16de6df6-716d-462c-b0a4-e8ba30820c62.png)
 
@@ -49,7 +49,7 @@ Potential Applications | This project can be used as a personal to-do list, or a
 </body>
 </html>
 
-## Quiz App
+## [Quiz App](https://github.com/workForClass/js-build-a-quiz-app)
 
 ![image](https://user-images.githubusercontent.com/120396905/231789084-dc650a97-4393-482b-a8df-4a9944bedd2b.png)
 
@@ -69,7 +69,7 @@ Potential Applications | This project can be used to create an educational quiz 
 </body>
 </html>
 
-## Tip Calculator
+## [Tip Calculator](https://gist.github.com/DavidSairai/c555bd2d57d4e891eeaf963c3c615fa8)
 
 ![image](https://user-images.githubusercontent.com/120396905/231789498-59a2cbd7-c75c-4fd3-95fd-fe660cce4d3a.png)
 
@@ -89,7 +89,7 @@ Potential Applications | This project can be used as a tool to calculate tips at
 </body>
 </html>
 
-## Weather App
+## [Weather App](https://github.com/topics/weatherapp-javascript)
 
 ![image](https://user-images.githubusercontent.com/120396905/231789719-b757eb85-570c-4bea-94e5-e29395b50d70.png)
 
